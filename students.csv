@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance
+S101,A,Computer Science,92,88,85,79,96,94
+S102,B,Computer Science,85,78,80,88,91,90
+S103,C,Electronics,67,72,65,70,74,82
+S104,D,Maths,95,90,92,85,88,96
+S105,E,Mechanical,45,52,48,60,55,70
+S106,F,Computer Science,78,82,75,90,86,88
+S107,G,Electronics,58,62,55,65,60,76
+S108,H,Maths,88,84,86,92,80,93
+S109,I,Mechanical,34,40,38,55,42,62
+S110,J,Commerce,72,68,70,85,66,85
+S111,K,Computer Science,81,76,79,72,89,87
+S112,L,Commerce,64,60,58,78,62,79
+S113,M,Electronics,52,48,50,58,63,68
+S114,N,Maths,90,93,89,84,91,97
+S115,O,Mechanical,60,55,62,64,58,74
+S116,P,Computer Science,76,80,72,83,94,91
+S117,Q,Commerce,30,45,41,52,48,58
+S118,R,Electronics,70,74,68,76,72,84
+S119,S,Mechanical,55,58,52,61,64,72
+S120,T,Maths,83,87,81,89,85,92

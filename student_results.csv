@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Physics,Chemistry,English,Computer_Science,Attendance,Total,Average,Result,Grade
+S101,A,Computer Science,92,88,85,79,96,94,440,88.0,Pass,A
+S102,B,Computer Science,85,78,80,88,91,90,422,84.4,Pass,A
+S103,C,Electronics,67,72,65,70,74,82,348,69.6,Pass,C
+S104,D,Maths,95,90,92,85,88,96,450,90.0,Pass,A+
+S105,E,Mechanical,45,52,48,60,55,70,260,52.0,Pass,D
+S106,F,Computer Science,78,82,75,90,86,88,411,82.2,Pass,A
+S107,G,Electronics,58,62,55,65,60,76,300,60.0,Pass,C
+S108,H,Maths,88,84,86,92,80,93,430,86.0,Pass,A
+S109,I,Mechanical,34,40,38,55,42,62,209,41.8,Fail,F
+S110,J,Commerce,72,68,70,85,66,85,361,72.2,Pass,B
+S111,K,Computer Science,81,76,79,72,89,87,397,79.4,Pass,B
+S112,L,Commerce,64,60,58,78,62,79,322,64.4,Pass,C
+S113,M,Electronics,52,48,50,58,63,68,271,54.2,Pass,D
+S114,N,Maths,90,93,89,84,91,97,447,89.4,Pass,A
+S115,O,Mechanical,60,55,62,64,58,74,299,59.8,Pass,D
+S116,P,Computer Science,76,80,72,83,94,91,405,81.0,Pass,A
+S117,Q,Commerce,30,45,41,52,48,58,216,43.2,Fail,F
+S118,R,Electronics,70,74,68,76,72,84,360,72.0,Pass,B
+S119,S,Mechanical,55,58,52,61,64,72,290,58.0,Pass,D
+S120,T,Maths,83,87,81,89,85,92,425,85.0,Pass,A
