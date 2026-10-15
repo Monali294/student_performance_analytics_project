@@ -1,15 +1,14 @@
 Student Performance Analytics System
 
-#Introduction
+#Introduction-
 This project reads student records from a CSV file, analyses them using Pandas and NumPy, and shows results such as total marks, averages, grades, pass/fail status, subject-wise performance and the top performing students. No machine learning is used.
 
-#Files
-File	Purpose
-main.py	Runs the project and prints the final analysis
-functions.py	Reusable functions for calculations and processing
-students.csv	Dataset of 20 students
-student_results.csv	Output file created by the program
-Project_Documentation.md	This document
+#Files-
+main.py:	Runs the project and prints the final analysis
+functions.py:	Reusable functions for calculations and processing
+students.csv:	Dataset of 20 students
+student_results.csv	:Output file created by the program
+readme.md	:project documentation
 
 #Dataset
 students.csv has 20 records with these columns: Student_ID, Name, Department, Maths, Physics, Chemistry, English, Computer_Science (each out of 100) and Attendance (%).
